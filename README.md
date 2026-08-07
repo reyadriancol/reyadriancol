@@ -23,18 +23,6 @@ turbofan engine degradation data.
 
 ---
 
-## About this portfolio
-
-Each project lives in its own repository and follows the same structure:
-
-```
-├── README.md          # problem, data, approach, findings, how to run
-├── data/              # not committed — reproducible from the documented source
-├── sql/               # queries, numbered in run order
-├── notebooks/         # exploration & modeling
-├── src/               # reusable Python scripts
-└── visualizations/    # exported charts / dashboard screenshots
-```
 
 ## ⚠️ Data & security note
 
