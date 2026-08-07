@@ -1,16 +1,43 @@
-## Hi there 👋
+# Rey Colongon — Data & Analytics Portfolio
 
-<!--
-**reyadriancol/reyadriancol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst and data science projects demonstrating hands-on work with SQL, Python
+(pandas, scikit-learn), Tableau, and statistical analysis. Background: 15 years in
+defense operations and maintenance in Okinawa, Japan; B.S. Business Analytics
+(cum laude); M.S. Data Science (2026).
 
-Here are some ideas to get you started:
+📍 Uruma City, Okinawa, Japan 
+🔗 LinkedIn: _[add your LinkedIn URL](https://www.linkedin.com/in/rey-colongon-1b42aa81/)_
+📊 Tableau Public: _[add your Tableau Public profile URL]_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+| Project | What it does | Skills | Links |
+|---|---|---|---|
+| **DoD Contract Spending in Japan** | Who wins DoD contract dollars in Japan, and is spending concentrating in fewer hands? | SQL, PostgreSQL, Python, Tableau | [Repo](https://github.com/reyadriancol/dod-contract-spending-japan) |
+| **Flight Delay Prediction** | Predicts whether a flight arrives 15+ min late (BTS data) | SQL, Python, scikit-learn, Tableau | [Repo](https://github.com/reyadriancol/flight-delay-prediction) |
+
+**In progress:** predictive maintenance / remaining-useful-life modeling on NASA
+turbofan engine degradation data.
+
+---
+
+## About this portfolio
+
+Each project lives in its own repository and follows the same structure:
+
+```
+├── README.md          # problem, data, approach, findings, how to run
+├── data/              # not committed — reproducible from the documented source
+├── sql/               # queries, numbered in run order
+├── notebooks/         # exploration & modeling
+├── src/               # reusable Python scripts
+└── visualizations/    # exported charts / dashboard screenshots
+```
+
+## ⚠️ Data & security note
+
+Every dataset here is **public and unclassified** (e.g., USAspending.gov,
+U.S. BTS TranStats, NASA C-MAPSS). Nothing in this portfolio comes from any
+employer system or work data.
