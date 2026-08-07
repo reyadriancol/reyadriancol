@@ -6,7 +6,7 @@ defense operations and maintenance in Okinawa, Japan; B.S. Business Analytics
 (cum laude); M.S. Data Science (2026).
 
 📍 Uruma City, Okinawa, Japan 
-🔗 LinkedIn: _[add your LinkedIn URL](https://www.linkedin.com/in/rey-colongon-1b42aa81/)_
+🔗 LinkedIn: _[Link](https://www.linkedin.com/in/rey-colongon-1b42aa81/)_
 📊 Tableau Public: _[add your Tableau Public profile URL]_
 
 ---
