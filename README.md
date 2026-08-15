@@ -43,5 +43,5 @@ Each project lives in its own repository and follows the same structure:
 
 Every dataset here is **public and unclassified** (e.g., USAspending.gov,
 U.S. BTS TranStats, NASA C-MAPSS). Nothing in this portfolio comes from any
-employer system, work data, REDARS, NALCOMIS, or any non-public source.
+employer system, work data, or any non-public source.
 This separation is intentional and strictly maintained.
