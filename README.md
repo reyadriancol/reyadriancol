@@ -16,7 +16,7 @@ defense operations and maintenance in Okinawa, Japan; B.S. Business Analytics
 |---|---|---|---|
 | **DoD Contract Spending in Japan** | Finds that a 31-point collapse in market concentration was entirely one fuel supplier — after separating out a 1957 treaty obligation | SQL, PostgreSQL, Python, Tableau | [Repo](https://github.com/reyadriancol/dod-contract-spending-japan) · [Dashboard](https://public.tableau.com/app/profile/rey.colongon5143/viz/DoDContractSpendinginJapanFY2024FY2025/Dashboard1) |
 | **Flight Delay Prediction** | Predicts whether a flight arrives 15+ minutes late, using BTS on-time performance data | SQL, Python, scikit-learn, Tableau | [Repo](https://github.com/reyadriancol/flight-delay-prediction) |
-| **Regional Sales Dashboard** | Multi-view Tableau story: revenue and profit by region, category treemaps, geographic profit mapping, delivery-time analysis | Tableau, LOD expressions, multi-table joins, parameters | [Dashboard](https://public.tableau.com/app/profile/rey.colongon5143/viz/DTSC600_FinalProject_ReyColongon/Story) |
+| **Regional Sales Analysis** | Multi-view Tableau story: revenue and profit by region, category treemaps, geographic profit mapping, delivery-time analysis | Tableau, LOD expressions, multi-table joins, parameters | [Dashboard](https://public.tableau.com/app/profile/rey.colongon5143/viz/RegionalSalesAnalysis_17867833174440/Story) |
 
 _Regional Sales is coursework (M.S. Data Science) built on a provided dataset —
 included to demonstrate Tableau technique rather than original analysis._
@@ -45,13 +45,3 @@ Every dataset here is **public and unclassified** (e.g., USAspending.gov,
 U.S. BTS TranStats, NASA C-MAPSS). Nothing in this portfolio comes from any
 employer system, work data, REDARS, NALCOMIS, or any non-public source.
 This separation is intentional and strictly maintained.
-turbofan engine degradation data.
-
----
-
-
-## ⚠️ Data & security note
-
-Every dataset here is **public and unclassified** (e.g., USAspending.gov,
-U.S. BTS TranStats, NASA C-MAPSS). Nothing in this portfolio comes from any
-employer system or work data.
