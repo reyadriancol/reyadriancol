@@ -19,12 +19,6 @@ defense operations and maintenance in Okinawa, Japan; B.S. Business Analytics
 | **Flight Delay Prediction** | Predicts whether a flight arrives 15+ minutes late, using BTS on-time performance data | SQL, Python, scikit-learn, Tableau | [Repo](https://github.com/reyadriancol/flight-delay-prediction) |
 | **Regional Sales Analysis** | Multi-view Tableau story: revenue and profit by region, category treemaps, geographic profit mapping, delivery-time analysis | Tableau, LOD expressions, multi-table joins, parameters | [Dashboard](https://public.tableau.com/app/profile/rey.colongon5143/viz/RegionalSalesAnalysis_17867833174440/Story) |
 
-_Regional Sales is coursework (M.S. Data Science) built on a provided dataset —
-included to demonstrate Tableau technique rather than original analysis._
-
-**In progress:** predictive maintenance / remaining-useful-life modeling on NASA
-turbofan engine degradation data.
-
 ---
 
 ## About this portfolio
