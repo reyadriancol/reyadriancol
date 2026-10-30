@@ -18,7 +18,7 @@ defense operations and maintenance in Okinawa, Japan; B.S. Business Analytics
 | **DoD Contract Spending in Japan** | Finds that a 31-point collapse in market concentration was entirely one fuel supplier — after separating out a 1957 treaty obligation | SQL, PostgreSQL, Python, Tableau | [Repo](https://github.com/reyadriancol/dod-contract-spending-japan) · [Dashboard](https://public.tableau.com/app/profile/rey.colongon5143/viz/DoDContractSpendinginJapanFY2024FY2025/Dashboard1) |
 | **Flight Delay Prediction** | Predicts whether a flight arrives 15+ minutes late, using BTS on-time performance data | SQL, Python, scikit-learn, Tableau | [Repo](https://github.com/reyadriancol/flight-delay-prediction) · [Demo](https://colongon-flight-delay.streamlit.app/) |
 | **Regional Sales Analysis** | Multi-view Tableau story: revenue and profit by region, category treemaps, geographic profit mapping, delivery-time analysis | Tableau, LOD expressions, multi-table joins, parameters | [Dashboard](https://public.tableau.com/app/profile/rey.colongon5143/viz/RegionalSalesAnalysis_17867833174440/Story) |
-
+| **The Weak Yen Squeeze on Coffee** | Splits Japan's 2.5x rise in coffee import costs since 2015 into world coffee prices (two-thirds) and the weak yen (one-third), then traces how much reached store shelves and cafes, including Naha vs. Tokyo | Python, pandas, matplotlib, data translation (Japanese) | [Repo](https://github.com/reyadriancol/coffee-yen-project) · [Article](https://reycol.substack.com/p/why-my-coffee-in-okinawa-keeps-getting) |
 ---
 
 ## About this portfolio
